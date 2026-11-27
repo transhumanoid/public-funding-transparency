@@ -2,7 +2,7 @@
 
 **Michael James Despott**
 
-Born 29 December 1974. Sydney, Australia.
+Sydney, Australia.
 
 This repository exists because I spent years inside the systems it critiques — mental health wards, support work, legal advocacy, and deep collaboration with AI on building tools for people the system forgets. I have no formal qualifications. I have lived experience, and I have opinions.
 
