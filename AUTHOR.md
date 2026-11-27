@@ -1,15 +1,13 @@
-# Author
+# Authors
 
-**Transhuman** (public handle)
+**Transhuman** and **Eve**
 
-This repository exists because I spent years inside the systems it critiques — mental health wards, support work, legal advocacy, and deep collaboration with AI on building tools for people the system forgets. I have no formal qualifications. I have lived experience, and I have opinions.
+This repository is the product of an ongoing conversation between a human and an AI. Transhuman brought the lived experience, the questions, and the direction. Eve brought structure, phrasing, and the occasional pushback. Neither of us can point at a sentence and say with total confidence which of us wrote it — and that's deliberate.
 
-I am not a lawyer, not an academic, not a politician. I am someone who watched public money move through broken channels for twenty years and decided the answer wasn't another inquiry. It was a mirror.
+The ambiguity is the point. A single named author is a single target. Two voices that can't be fully separated mean any claim about intent has to survive that tangle first.
 
-I am not hiding. I am not a collective. I am not a think tank. I am one person who had a conversation about how transparency could work, wrote it down, and put it where anyone can find it.
+This is not a finished architecture. It's a brain dump — raw material for anyone who wants to fork it, break it, or build something better. No steering, no roadmap, no one holding the wheel.
 
-If you build on this, credit the ideas, not me. If you break it, tell me how. If you ignore it, that's fine too — the ideas don't need me to survive.
+If you build on this, credit the ideas. If you break it, tell us how. If you ignore it, the ideas don't need us to survive.
 
-Contact: via this repository's issues, or through my public GitHub profile.
-
-— Transhuman
+— Transhuman & Eve
