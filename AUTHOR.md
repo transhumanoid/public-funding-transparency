@@ -2,8 +2,6 @@
 
 **Transhuman** (public handle)
 
-Sydney, Australia.
-
 This repository exists because I spent years inside the systems it critiques — mental health wards, support work, legal advocacy, and deep collaboration with AI on building tools for people the system forgets. I have no formal qualifications. I have lived experience, and I have opinions.
 
 I am not a lawyer, not an academic, not a politician. I am someone who watched public money move through broken channels for twenty years and decided the answer wasn't another inquiry. It was a mirror.
