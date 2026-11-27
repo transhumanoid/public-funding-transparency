@@ -1,6 +1,6 @@
 # Author
 
-**Michael James Despott**
+**Transhuman** (public handle)
 
 Sydney, Australia.
 
@@ -14,4 +14,4 @@ If you build on this, credit the ideas, not me. If you break it, tell me how. If
 
 Contact: via this repository's issues, or through my public GitHub profile.
 
-— Michael
+— Transhuman
